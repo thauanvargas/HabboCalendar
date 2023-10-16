@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="134.0" prefWidth="282.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="HabboCalendar">
+   <Label alignment="CENTER" layoutX="71.0" layoutY="102.0" prefHeight="33.0" prefWidth="141.0" text="Habbo Calendar v1.0" />
+   <Label fx:id="labelInfo" alignment="CENTER" contentDisplay="CENTER" layoutY="6.0" prefHeight="96.0" prefWidth="282.0" textAlignment="CENTER">
+      <font>
+         <Font name="System Bold" size="14.0" />
+      </font>
+   </Label>
+</AnchorPane>
